@@ -1,0 +1,1 @@
+echo "installing dependecies " >> deployment-logs.txt
